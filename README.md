@@ -2,6 +2,9 @@
 - 👀 I’m interested in NETWORK SECURITY   
 - 🌱 I’m currently learning JAVA SCRIPT
 - 📫 How to reach me ayushrajput7102004@gmail.com
+- Languages 
+- HTML
+- CSS
 
 <!---
 AYUSHRAJPUT200/AYUSHRAJPUT200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
